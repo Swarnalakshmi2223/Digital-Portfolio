@@ -3,7 +3,8 @@
 =======
 **Interactive Digital Portfolio Website** is now complete! Here's what has been built:
 
-![image](c:\Users\swarn\OneDrive\Pictures\Screenshots\Screenshot 2025-10-02 230728.png)
+![image]([<img width="1892" height="921" alt="Screenshot 2025-10-02 230728" src="https://github.com/user-attachments/assets/4db2a018-466b-4f59-9a56-c4b0a3ce077f" />
+])
 
 
 ### 📁 Project Structure
